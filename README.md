@@ -7,3 +7,6 @@ The biggest thing this project has taught me is using GitHub to manage source co
 My mentor stated:
 "James arrived with enthusiasm every day, communicated well, and played a big role in leading the team. He worked efficiently on the initial prototype for the game, and made a large contribution to the group presentation."
 
+![IMG_1056](https://github.com/user-attachments/assets/3ead0ed4-60f4-4338-a971-6792ff4712b3)
+![IMG_3137](https://github.com/user-attachments/assets/60c5f77f-7ac7-4d7c-b038-a845eb34f203)
+![IMG_1046](https://github.com/user-attachments/assets/c3e6f9c5-adc6-4638-8601-70f788ec91f2)
